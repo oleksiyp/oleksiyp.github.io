@@ -10,10 +10,19 @@
 var canvas;
 var ctx;
 
+var c = 0
+var color = col(c++)
 var prev = {}
+
+function col(c) {
+    if (c % 3 == 0) { return "0, 0, 200" }
+    if (c % 3 == 1) { return "0, 200, 0" }
+    if (c % 3 == 2) { return "200, 0, 0" }
+}
 
 function processTouch(touches) {
     var newPrev = {}
+
 
 	for (var i = 0; i < touches.length; i++) {
 		var touch = touches[i];
@@ -47,19 +56,19 @@ function processTouch(touches) {
         for (var j = 0; j < d; j += 5) {
             ctx.beginPath();
             ctx.ellipse(x, y, touch.radiusX / 2, touch.radiusY / 2, touch.rotationAngle, 0, 2 * Math.PI, true);
-            ctx.fillStyle = "rgba(0, 0, 200, 0.05)";
+            ctx.fillStyle = "rgba(" + color + ", 0.05)";
             ctx.fill();
             ctx.closePath();
 
             ctx.beginPath();
             ctx.ellipse(x, y, touch.radiusX / 3, touch.radiusY / 3, touch.rotationAngle, 0, 2 * Math.PI, true);
-            ctx.fillStyle = "rgba(0, 0, 200, 0.1)";
+            ctx.fillStyle = "rgba(" + color + ", 0.1)";
             ctx.fill();
             ctx.closePath();
 
             ctx.beginPath();
             ctx.ellipse(x, y, touch.radiusX / 4, touch.radiusY / 4, touch.rotationAngle, 0, 2 * Math.PI, true);
-            ctx.fillStyle = "rgba(0, 0, 200, 0.5)";
+            ctx.fillStyle = "rgba(" + color + ", 0.5)";
             ctx.fill();
             ctx.closePath();
 
@@ -86,6 +95,7 @@ function start() {
     canvas.addEventListener('touchend', function(event) {
       event.preventDefault();
       prev = {};
+      color = col(c++);
     });
 
     function resize() {
