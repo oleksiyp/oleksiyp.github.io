@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Touch painter</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+    <style type="text/css"> body { margin: 0px; overflow: hidden; } canvas { border: 1px solid black; } </style>
+</head>
+<script type="text/javascript">
+var canvas;
+var ctx;
+
+var prev = {}
+
+function processTouch(touches) {
+    var newPrev = {}
+
+	for (var i = 0; i < touches.length; i++) {
+		var touch = touches[i];
+        var px = touch.pageX;
+        var py = touch.pageY;
+
+        if (px < 10 && py < 10) {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+        }
+
+        if (!(touch.identifier in prev)) {
+            newPrev[touch.identifier] = touch
+            continue
+        }
+
+        var prevTouch = prev[touch.identifier]
+
+        var ppx = prevTouch.pageX
+        var ppy = prevTouch.pageY
+
+        var dx = px - ppx
+        var dy = py - ppy
+
+        var d = Math.sqrt(dx * dx + dy * dy)
+        dx /= d
+        dy /= d
+
+        var x = ppx
+        var y = ppy
+
+        for (var j = 0; j < d; j += 5) {
+            ctx.beginPath();
+            ctx.ellipse(x, y, touch.radiusX / 2, touch.radiusY / 2, touch.rotationAngle, 0, 2 * Math.PI, true);
+            ctx.fillStyle = "rgba(0, 0, 200, 0.05)";
+            ctx.fill();
+            ctx.closePath();
+
+            ctx.beginPath();
+            ctx.ellipse(x, y, touch.radiusX / 3, touch.radiusY / 3, touch.rotationAngle, 0, 2 * Math.PI, true);
+            ctx.fillStyle = "rgba(0, 0, 200, 0.1)";
+            ctx.fill();
+            ctx.closePath();
+
+            ctx.beginPath();
+            ctx.ellipse(x, y, touch.radiusX / 4, touch.radiusY / 4, touch.rotationAngle, 0, 2 * Math.PI, true);
+            ctx.fillStyle = "rgba(0, 0, 200, 0.5)";
+            ctx.fill();
+            ctx.closePath();
+
+            x += dx * 5
+            y += dy * 5
+		}
+
+		newPrev[touch.identifier] = touch
+	}
+	prev = newPrev
+}
+
+
+
+function start() {
+	canvas = document.getElementById('canvas');
+	ctx = canvas.getContext('2d');
+
+    canvas.addEventListener('touchmove', function(event) {
+      event.preventDefault();
+      processTouch(event.touches);
+    });
+
+    canvas.addEventListener('touchend', function(event) {
+      event.preventDefault();
+      prev = {};
+    });
+
+    function resize() {
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+    }
+
+    window.addEventListener('resize', resize, false);
+    resize();
+};
+
+    </script>
+<body onload="start()">
+<canvas id="canvas" style="width: 100%; height: 100%;"></canvas>
+</body>
+</html>
