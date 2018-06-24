@@ -81,6 +81,8 @@ Fats:
  * second health food rule: fat requirement raises with latitude and altitude up to 80%
  * refined oil better for frying(high temperature), non-refined for everything else
 
+<img src="dietology/grapefruit-1647688_1920.jpg" width="100%" />
+
 [5-rd Lecture](https://www.youtube.com/watch?v=VAbNK7ABVw8)
 -----------------------------------------------------------
 
