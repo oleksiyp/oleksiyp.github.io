@@ -83,7 +83,7 @@ Fats:
 
 <img src="dietology/grapefruit-1647688_1920.jpg" width="100%" />
 
-[5-rd Lecture](https://www.youtube.com/watch?v=VAbNK7ABVw8) and [4-th Lecture](https://www.youtube.com/watch?v=mr7uvr3yc1g)
+[5-rd Lecture](https://www.youtube.com/watch?v=VAbNK7ABVw8) and [6-th Lecture](https://www.youtube.com/watch?v=mr7uvr3yc1g)
 ---------------------------------------------------------------------------------------------------------------------------
 
 Carbohydrates:
