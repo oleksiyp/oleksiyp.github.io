@@ -86,22 +86,40 @@ Fats:
 
 Carbohydrates:
  * only function - food energy for physical activity 
- * should be delivered to: muscles, heart muscle
- * to types: fast and slow
+ * should be delivered to muscles
+ * Two types of carbs
+   *  Fast carbs:
+      * sugar
+      * everything containing sugar
+      * potato starch / potato
+      * grape / sweet wine / raisins
+      * banana
+      * white rice
+      * semolina
+      * white wheat flour (and produced from it)
+   * Slow carbs:
+     * pearl barley 
+     * oats
+     * corn
+     * millet
+     * buckwheat
+     * barley
+     * millet
  * Glucose - main component
  * Glucose + Glucose = Sucrose (sugar, fast)
  * Glucose + Galaktose = Fruktose (slow)
  * Lactose (slow)
- * Glucose containing sources:
-  * sugar
-  * everything containing sugar
-  * potato starch / potato
-  * grape / sweet wine / raisins
-  * banana
-  * white rice
-  * semolina
-  * white wheat flour (and produced from it)
- * fast carbs: peaks 9 mmol/L during 15 mintutes and goes to 0 right after
+ * fast carbs: peaks 9 mmol/L during 15 minutes and goes to 0 right after
  * glycogen(emergency carbs) stored in muscles is enough for 15 minutes
- * slow carbs: goes to 5,5 during 2 hours and keeps till 6 hours at that level, then goes down.
- * 
+ * slow carbs: goes to 5.5 during 2 hours and keeps till 6 hours at that level, then goes down.
+ * norms: 3.5 - 5.5 mmol/L (raised to 5.8, then 6.0, 6.2, 6.5)
+ * person without much physical activity fast carbs are contraindicated
+ * there is no symptoms of hyperglycemia (> 5.8 mmol/L)
+ * symptoms of hypoglycemia (< 3.5 mmol/L): panic(3.8 mmol/L), emergency glycogen(3.5 mmol/L, during 15 mins: fatigue, sweat, loss of consciousness, heart stop and death)
+ * Ways to detect sugar level:
+   * fasting sugar (7-8 in the morning, don't drink, don't eat)
+   * sugar with load
+   * glycated hemoglobin (>7 sugar diabetes)
+
+ 
+ 
