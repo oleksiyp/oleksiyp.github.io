@@ -33,9 +33,9 @@ Proteins:
    2. animal - all 20 amino acids (but most % for muscles)
    3. plant - only 8 amino acids
  * Dietary supplement:
-  * fish oil. more better, no limits
-  * lecithin (phosphatidylcholine). more better, no limits
-  * essential oil (adding to food). each has own function
+   * fish oil. more better, no limits
+   * lecithin (phosphatidylcholine). more better, no limits
+   * essential oil (adding to food). each has own function
 
  * more proteins - better
  * albumins do not survive in more than 42 degree Celsius
