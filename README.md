@@ -85,3 +85,21 @@ Fats:
 -----------------------------------------------------------
 
 Carbohydrates:
+ * only function - food energy for physical activity 
+ * should be delivered to: muscles, heart muscle
+ * to types: fast and slow
+ * Glucose - main component
+ * Glucose + Glucose = Sucrose (sugar, fast)
+ * Glucose + Galaktoza = Fruktoza (slow)
+ * Laktoza (slow
+ * Glucose containing sources:
+  * sugar
+  * everything containing sugar
+  * potato starch / potato
+  * grape / sweet wine / raisins
+  * banana
+  * white rice
+  * semolina
+  * white wheat flour (and produced from it)
+
+ 
