@@ -90,8 +90,8 @@ Carbohydrates:
  * to types: fast and slow
  * Glucose - main component
  * Glucose + Glucose = Sucrose (sugar, fast)
- * Glucose + Galaktoza = Fruktoza (slow)
- * Laktoza (slow
+ * Glucose + Galaktose = Fruktose (slow)
+ * Lactose (slow)
  * Glucose containing sources:
   * sugar
   * everything containing sugar
@@ -101,5 +101,7 @@ Carbohydrates:
   * white rice
   * semolina
   * white wheat flour (and produced from it)
-
- 
+ * fast carbs: peaks 9 mmol/L during 15 mintutes and goes to 0 right after
+ * glycogen(emergency carbs) stored in muscles is enough for 15 minutes
+ * slow carbs: goes to 5,5 during 2 hours and keeps till 6 hours at that level, then goes down.
+ * 
