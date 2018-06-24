@@ -45,7 +45,7 @@ Proteins:
 
 <img src="dietology/pomegranate-open-196800_1920.jpg" width="100%" />
 
-[3-st Lecture](https://www.youtube.com/watch?v=OPo9U-PE6s4) and [4-st Lecture](https://www.youtube.com/watch?v=RQ2tJGHxHas)
+[3-rd Lecture](https://www.youtube.com/watch?v=OPo9U-PE6s4) and [4-th Lecture](https://www.youtube.com/watch?v=RQ2tJGHxHas)
 ---------------------------------------------------------------------------------------------------------------------------
 
 Fats:
