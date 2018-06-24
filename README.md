@@ -88,15 +88,15 @@ Carbohydrates:
  * only function - food energy for physical activity 
  * should be delivered to muscles
  * Two types of carbs
-   *  Fast carbs:
-      * sugar
-      * everything containing sugar
-      * potato starch / potato
-      * grape / sweet wine / raisins
-      * banana
-      * white rice
-      * semolina
-      * white wheat flour (and produced from it)
+   * Fast carbs:
+     * sugar
+     * everything containing sugar
+     * potato starch / potato
+     * grape / sweet wine / raisins
+     * banana
+     * white rice
+     * semolina
+     * white wheat flour (and produced from it)
    * Slow carbs:
      * pearl barley 
      * oats
@@ -105,6 +105,12 @@ Carbohydrates:
      * buckwheat
      * barley
      * millet
+     * other than grape and banna berries and fruits (Fruktose)
+     * all dried fruits except raisins (Fruktose)
+     * all non-rafinated sugar
+     * all diabetic/dietic sugars
+     * saccharin
+     * honey(if sugar syrop is consumed by bee it's not slow)
  * Glucose - main component
  * Glucose + Glucose = Sucrose (sugar, fast)
  * Glucose + Galaktose = Fruktose (slow)
@@ -120,6 +126,10 @@ Carbohydrates:
    * fasting sugar (7-8 in the morning, don't drink, don't eat)
    * sugar with load
    * glycated hemoglobin (>7 sugar diabetes)
+ * 1% of physical activity is brain requirement
+ * fast carb required to consume before physical load
+ * brain activity require slow carbs
+ * diabetes make all internal organs glycated
+ * excess of glucose is converted carbohydrate fat
+ * economically fast carbs are a lot cheaper and simpler to produce
 
- 
- 
