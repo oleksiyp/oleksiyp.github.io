@@ -7,6 +7,7 @@ prof. Zabolotny lectures
 ------------
 
 <img src="deitology/veges.jpg" align="right" width="350px">
+
  * Law of Food Supply - basis of biological life: material resource supplement of individual genetic plan of grows - the only way to grow healthy human
  * Law of Natural selection - the one who did not adapt to environemnt not survive or not able to leave viable offsprings. (applied to food supply)
  * 80% of population starving - deprived of adequate nutrition
