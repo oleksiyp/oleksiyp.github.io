@@ -80,6 +80,6 @@ Fats:
 -----------------------------------------------------------
 
  Dietary supplement:
-  * fish oil. no limits
-  * lecithin (phosphatidylcholine). no limits
+  * fish oil. more better, no limits
+  * lecithin (phosphatidylcholine). more better, no limits
   * 
