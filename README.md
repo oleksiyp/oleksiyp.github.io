@@ -1,5 +1,5 @@
-DIETOLOGY 
-=========
+DIETOLOGY lecture notes 
+=======================
 
 prof. Zabolotny lectures
 
