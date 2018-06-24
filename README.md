@@ -124,7 +124,7 @@ Carbohydrates:
  * person without much physical activity fast carbs are contraindicated
  * there is no symptoms of hyperglycemia (> 5.8 mmol/L)
  * symptoms of hypoglycemia (< 3.5 mmol/L): panic(3.8 mmol/L), emergency glycogen(3.5 mmol/L, during 15 mins: fatigue, sweat, loss of consciousness, heart stop and death)
- * Ways to detect sugar level:
+ * ways to detect sugar level:
    * fasting sugar (7-8 in the morning, don't drink, don't eat)
    * sugar with load
    * glycated hemoglobin (>7 sugar diabetes)
@@ -134,4 +134,4 @@ Carbohydrates:
  * diabetes make all internal organs glycated
  * excess of glucose is converted carbohydrate fat
  * economically fast carbs are a lot cheaper and simpler to produce
-
+ * excluding fast carbs is great for health
