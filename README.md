@@ -74,4 +74,12 @@ Fats:
  * ideal fat - egg yolk, caviar
  * main plant fat food rule is a diversity of many plant oils. at least 5 oils, at least 6 tablespoons per day.
  * oil storage rules: no oxygen, no sunlight
- * second health food rule: fat demand raises with latitude and altitude
+ * second health food rule: fat requirement raises with latitude and altitude up to 80%
+
+[5-rd Lecture](https://www.youtube.com/watch?v=VAbNK7ABVw8)
+-----------------------------------------------------------
+
+ Dietary supplement:
+  * fish oil. no limits
+  * lecithin (phosphatidylcholine). no limits
+  * 
