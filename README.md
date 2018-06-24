@@ -32,6 +32,10 @@ Proteins:
    1. milk - all 20 amino acids
    2. animal - all 20 amino acids (but most % for muscles)
    3. plant - only 8 amino acids
+ * Dietary supplement:
+  * fish oil. more better, no limits
+  * lecithin (phosphatidylcholine). more better, no limits
+  * essential oil (adding to food). each has own function
 
  * more proteins - better
  * albumins do not survive in more than 42 degree Celsius
@@ -75,11 +79,9 @@ Fats:
  * main plant fat food rule is a diversity of many plant oils. at least 5 oils, at least 6 tablespoons per day.
  * oil storage rules: no oxygen, no sunlight
  * second health food rule: fat requirement raises with latitude and altitude up to 80%
+ * refined oil better for frying(high temperature), non-refined for everything else
 
 [5-rd Lecture](https://www.youtube.com/watch?v=VAbNK7ABVw8)
 -----------------------------------------------------------
 
- Dietary supplement:
-  * fish oil. more better, no limits
-  * lecithin (phosphatidylcholine). more better, no limits
-  * 
+Carbohydrates:
