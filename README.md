@@ -1,5 +1,7 @@
-DIETOLOGY (prof. Zabolotny lectures)
-====================================
+DIETOLOGY 
+=========
+
+prof. Zabolotny lectures
 
 [1-st lecture](https://www.youtube.com/watch?v=ks2CiWG2_Lc)
 ------------
