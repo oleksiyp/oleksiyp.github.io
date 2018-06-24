@@ -6,13 +6,13 @@ prof. Zabolotny lectures
 [1-st lecture](https://www.youtube.com/watch?v=ks2CiWG2_Lc)
 ------------
 
-<img src="deitology/veges.jpg" align="right" width="350px">
-
  * Law of Food Supply - basis of biological life: material resource supplement of individual genetic plan of grows - the only way to grow healthy human
  * Law of Natural selection - the one who did not adapt to environemnt not survive or not able to leave viable offsprings. (applied to food supply)
  * 80% of population starving - deprived of adequate nutrition
  * 40% infertile(mostly connected to disgusting food habbits)
  * taste - way to find required food supply. Highly important to taste big varaity of food and follow developed food sense.
+
+<img src="dietology/figs-1620590_1920.jpg" width="100%" />
 
 [2-nd Lecture](https://www.youtube.com/watch?v=V-rGJ5exGos)
 -----------------------------------------------------------
@@ -42,6 +42,8 @@ Proteins:
  * it is required to have all 20 aminoacids for healthy body
  * all people differs in requirement of specific aminoacids. this means every family member should have own diet and find food himself(so buying food/cooking by one family member may be not perfect only because aminoacid requirements may be different)
  * ideal protein - egg white
+
+<img src="dietology/pomegranate-open-196800_1920.jpg" width="100%" />
 
 [3-st Lecture](https://www.youtube.com/watch?v=OPo9U-PE6s4) and [4-st Lecture](https://www.youtube.com/watch?v=RQ2tJGHxHas)
 ---------------------------------------------------------------------------------------------------------------------------
